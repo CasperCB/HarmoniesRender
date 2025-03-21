@@ -1,0 +1,163 @@
+[
+    {
+        "coord": [
+            27,
+            25
+        ],
+        "label": "yellow"
+    },
+    {
+        "coord": [
+            27,
+            75
+        ],
+        "label": "spirit, red, red"
+    },
+    {
+        "coord": [
+            27,
+            125
+        ],
+        "label": "animal, blue"
+    },
+    {
+        "coord": [
+            27,
+            175
+        ],
+        "label": "brown"
+    },
+    {
+        "coord": [
+            27,
+            225
+        ],
+        "label": "brown, brown"
+    },
+    {
+        "coord": [
+            71,
+            50
+        ],
+        "label": "yellow"
+    },
+    {
+        "coord": [
+            71,
+            100
+        ],
+        "label": "green"
+    },
+    {
+        "coord": [
+            71,
+            150
+        ],
+        "label": "animal, blue"
+    },
+    {
+        "coord": [
+            71,
+            200
+        ],
+        "label": "animal, blue"
+    },
+    {
+        "coord": [
+            115,
+            25
+        ],
+        "label": "blue"
+    },
+    {
+        "coord": [
+            115,
+            75
+        ],
+        "label": "yellow"
+    },
+    {
+        "coord": [
+            115,
+            125
+        ],
+        "label": "red, red"
+    },
+    {
+        "coord": [
+            115,
+            175
+        ],
+        "label": "animal, blue"
+    },
+    {
+        "coord": [
+            115,
+            225
+        ],
+        "label": "animal, red, gray"
+    },
+    {
+        "coord": [
+            159,
+            50
+        ],
+        "label": "animal, red, brown"
+    },
+    {
+        "coord": [
+            159,
+            100
+        ],
+        "label": "green"
+    },
+    {
+        "coord": [
+            159,
+            150
+        ],
+        "label": "animal, green"
+    },
+    {
+        "coord": [
+            159,
+            200
+        ],
+        "label": "blue"
+    },
+    {
+        "coord": [
+            204,
+            25
+        ],
+        "label": "blue"
+    },
+    {
+        "coord": [
+            204,
+            75
+        ],
+        "label": "animal, green"
+    },
+    {
+        "coord": [
+            204,
+            125
+        ],
+        "label": "none"
+    },
+    {
+        "coord": [
+            204,
+            175
+        ],
+        "label": "animal, green"
+    },
+    {
+        "coord": [
+            204,
+            225
+        ],
+        "label": "brown"
+    }
+]
