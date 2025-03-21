@@ -1,0 +1,416 @@
+[
+    {
+        "hex": [
+            27,
+            25
+        ],
+        "label": "None",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 0,
+            "yellow": 0,
+            "gray": 22,
+            "brown": 0,
+            "board": 953,
+            "spirit": 47,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            27,
+            75
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 318,
+            "green": 0,
+            "yellow": 0,
+            "gray": 72,
+            "brown": 0,
+            "board": 295,
+            "spirit": 155,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            27,
+            125
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 316,
+            "green": 3,
+            "yellow": 0,
+            "gray": 69,
+            "brown": 0,
+            "board": 321,
+            "spirit": 126,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            27,
+            175
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 323,
+            "green": 4,
+            "yellow": 0,
+            "gray": 82,
+            "brown": 0,
+            "board": 285,
+            "spirit": 154,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            27,
+            225
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 325,
+            "green": 7,
+            "yellow": 0,
+            "gray": 62,
+            "brown": 0,
+            "board": 249,
+            "spirit": 164,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            71,
+            50
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 324,
+            "green": 0,
+            "yellow": 0,
+            "gray": 57,
+            "brown": 0,
+            "board": 304,
+            "spirit": 147,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            71,
+            100
+        ],
+        "label": "animal, green, brown",
+        "vector": {
+            "red": 79,
+            "blue": 0,
+            "green": 145,
+            "yellow": 12,
+            "gray": 39,
+            "brown": 7,
+            "board": 93,
+            "spirit": 120,
+            "animal": 105
+        }
+    },
+    {
+        "hex": [
+            71,
+            150
+        ],
+        "label": "animal, green, brown",
+        "vector": {
+            "red": 81,
+            "blue": 0,
+            "green": 152,
+            "yellow": 11,
+            "gray": 30,
+            "brown": 13,
+            "board": 91,
+            "spirit": 123,
+            "animal": 111
+        }
+    },
+    {
+        "hex": [
+            71,
+            200
+        ],
+        "label": "animal, green, brown",
+        "vector": {
+            "red": 80,
+            "blue": 0,
+            "green": 129,
+            "yellow": 9,
+            "gray": 13,
+            "brown": 11,
+            "board": 79,
+            "spirit": 119,
+            "animal": 105
+        }
+    },
+    {
+        "hex": [
+            115,
+            25
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 325,
+            "green": 0,
+            "yellow": 0,
+            "gray": 54,
+            "brown": 0,
+            "board": 265,
+            "spirit": 185,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            115,
+            75
+        ],
+        "label": "None",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 0,
+            "yellow": 0,
+            "gray": 9,
+            "brown": 0,
+            "board": 955,
+            "spirit": 45,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            115,
+            125
+        ],
+        "label": "animal, yellow",
+        "vector": {
+            "red": 81,
+            "blue": 0,
+            "green": 8,
+            "yellow": 132,
+            "gray": 37,
+            "brown": 0,
+            "board": 229,
+            "spirit": 176,
+            "animal": 116
+        }
+    },
+    {
+        "hex": [
+            115,
+            175
+        ],
+        "label": "animal, yellow",
+        "vector": {
+            "red": 77,
+            "blue": 0,
+            "green": 14,
+            "yellow": 135,
+            "gray": 65,
+            "brown": 0,
+            "board": 245,
+            "spirit": 174,
+            "animal": 113
+        }
+    },
+    {
+        "hex": [
+            115,
+            225
+        ],
+        "label": "animal, yellow",
+        "vector": {
+            "red": 80,
+            "blue": 0,
+            "green": 25,
+            "yellow": 120,
+            "gray": 45,
+            "brown": 1,
+            "board": 203,
+            "spirit": 213,
+            "animal": 115
+        }
+    },
+    {
+        "hex": [
+            159,
+            50
+        ],
+        "label": "blue",
+        "vector": {
+            "red": 0,
+            "blue": 339,
+            "green": 0,
+            "yellow": 0,
+            "gray": 58,
+            "brown": 0,
+            "board": 300,
+            "spirit": 152,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            159,
+            100
+        ],
+        "label": "spirit, green, brown, brown",
+        "vector": {
+            "red": 5,
+            "blue": 0,
+            "green": 136,
+            "yellow": 0,
+            "gray": 19,
+            "brown": 40,
+            "board": 13,
+            "spirit": 291,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            159,
+            150
+        ],
+        "label": "animal, green, brown",
+        "vector": {
+            "red": 75,
+            "blue": 0,
+            "green": 153,
+            "yellow": 10,
+            "gray": 38,
+            "brown": 15,
+            "board": 42,
+            "spirit": 125,
+            "animal": 103
+        }
+    },
+    {
+        "hex": [
+            159,
+            200
+        ],
+        "label": "animal, green, brown",
+        "vector": {
+            "red": 74,
+            "blue": 0,
+            "green": 146,
+            "yellow": 9,
+            "gray": 11,
+            "brown": 18,
+            "board": 83,
+            "spirit": 124,
+            "animal": 100
+        }
+    },
+    {
+        "hex": [
+            204,
+            25
+        ],
+        "label": "None",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 0,
+            "yellow": 0,
+            "gray": 3,
+            "brown": 0,
+            "board": 943,
+            "spirit": 57,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            204,
+            75
+        ],
+        "label": "green",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 364,
+            "yellow": 44,
+            "gray": 42,
+            "brown": 0,
+            "board": 300,
+            "spirit": 171,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            204,
+            125
+        ],
+        "label": "green",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 361,
+            "yellow": 47,
+            "gray": 51,
+            "brown": 0,
+            "board": 309,
+            "spirit": 155,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            204,
+            175
+        ],
+        "label": "green",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 363,
+            "yellow": 46,
+            "gray": 54,
+            "brown": 0,
+            "board": 291,
+            "spirit": 184,
+            "animal": 0
+        }
+    },
+    {
+        "hex": [
+            204,
+            225
+        ],
+        "label": "green",
+        "vector": {
+            "red": 0,
+            "blue": 0,
+            "green": 358,
+            "yellow": 45,
+            "gray": 53,
+            "brown": 0,
+            "board": 251,
+            "spirit": 171,
+            "animal": 0
+        }
+    }
+]

@@ -1,0 +1,275 @@
+Hex at (27, 25), label = [gray, gray]
+  red: 0 pixels
+  blue: 0 pixels
+  green: 0 pixels
+  yellow: 0 pixels
+  gray: 430 pixels
+  brown: 0 pixels
+  board: 118 pixels
+  spirit (raw): 309 pixels
+  spirit (adjusted): 191 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (27, 75), label = [animal, gray, gray, gray]
+  red: 80 pixels
+  blue: 0 pixels
+  green: 3 pixels
+  yellow: 12 pixels
+  gray: 212 pixels
+  brown: 2 pixels
+  board: 13 pixels
+  spirit (raw): 71 pixels
+  spirit (adjusted): 58 pixels (spirit - board)
+  animal: 128 pixels
+
+Hex at (27, 125), label = [yellow]
+  red: 0 pixels
+  blue: 0 pixels
+  green: 10 pixels
+  yellow: 332 pixels
+  gray: 72 pixels
+  brown: 0 pixels
+  board: 264 pixels
+  spirit (raw): 461 pixels
+  spirit (adjusted): 197 pixels (spirit - board)
+  animal: 4 pixels
+
+Hex at (27, 175), label = [animal, gray]
+  red: 76 pixels
+  blue: 0 pixels
+  green: 8 pixels
+  yellow: 8 pixels
+  gray: 221 pixels
+  brown: 0 pixels
+  board: 279 pixels
+  spirit (raw): 419 pixels
+  spirit (adjusted): 140 pixels (spirit - board)
+  animal: 124 pixels
+
+Hex at (27, 225), label = [animal, gray]
+  red: 79 pixels
+  blue: 0 pixels
+  green: 7 pixels
+  yellow: 12 pixels
+  gray: 191 pixels
+  brown: 2 pixels
+  board: 270 pixels
+  spirit (raw): 406 pixels
+  spirit (adjusted): 136 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (71, 50), label = [spirit, blue]
+  red: 7 pixels
+  blue: 164 pixels
+  green: 5 pixels
+  yellow: 0 pixels
+  gray: 74 pixels
+  brown: 0 pixels
+  board: 289 pixels
+  spirit (raw): 639 pixels
+  spirit (adjusted): 350 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (71, 100), label = [animal, gray]
+  red: 80 pixels
+  blue: 0 pixels
+  green: 0 pixels
+  yellow: 7 pixels
+  gray: 206 pixels
+  brown: 0 pixels
+  board: 272 pixels
+  spirit (raw): 415 pixels
+  spirit (adjusted): 143 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (71, 150), label = [animal, gray]
+  red: 80 pixels
+  blue: 0 pixels
+  green: 0 pixels
+  yellow: 7 pixels
+  gray: 203 pixels
+  brown: 0 pixels
+  board: 281 pixels
+  spirit (raw): 414 pixels
+  spirit (adjusted): 133 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (71, 200), label = [animal, blue]
+  red: 80 pixels
+  blue: 172 pixels
+  green: 10 pixels
+  yellow: 7 pixels
+  gray: 54 pixels
+  brown: 0 pixels
+  board: 273 pixels
+  spirit (raw): 382 pixels
+  spirit (adjusted): 109 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (115, 25), label = [blue]
+  red: 0 pixels
+  blue: 359 pixels
+  green: 0 pixels
+  yellow: 0 pixels
+  gray: 48 pixels
+  brown: 0 pixels
+  board: 320 pixels
+  spirit (raw): 436 pixels
+  spirit (adjusted): 116 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (115, 75), label = [animal, blue]
+  red: 80 pixels
+  blue: 172 pixels
+  green: 0 pixels
+  yellow: 7 pixels
+  gray: 48 pixels
+  brown: 0 pixels
+  board: 279 pixels
+  spirit (raw): 406 pixels
+  spirit (adjusted): 127 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (115, 125), label = [animal, blue]
+  red: 85 pixels
+  blue: 157 pixels
+  green: 0 pixels
+  yellow: 9 pixels
+  gray: 41 pixels
+  brown: 2 pixels
+  board: 282 pixels
+  spirit (raw): 383 pixels
+  spirit (adjusted): 101 pixels (spirit - board)
+  animal: 136 pixels
+
+Hex at (115, 175), label = [blue]
+  red: 0 pixels
+  blue: 351 pixels
+  green: 4 pixels
+  yellow: 0 pixels
+  gray: 72 pixels
+  brown: 0 pixels
+  board: 341 pixels
+  spirit (raw): 447 pixels
+  spirit (adjusted): 106 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (115, 225), label = [green, brown, brown]
+  red: 0 pixels
+  blue: 0 pixels
+  green: 369 pixels
+  yellow: 68 pixels
+  gray: 13 pixels
+  brown: 97 pixels
+  board: 29 pixels
+  spirit (raw): 98 pixels
+  spirit (adjusted): 69 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (159, 50), label = [animal, gray, gray]
+  red: 80 pixels
+  blue: 0 pixels
+  green: 1 pixels
+  yellow: 7 pixels
+  gray: 206 pixels
+  brown: 0 pixels
+  board: 125 pixels
+  spirit (raw): 201 pixels
+  spirit (adjusted): 76 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (159, 100), label = [animal, gray, gray]
+  red: 80 pixels
+  blue: 0 pixels
+  green: 11 pixels
+  yellow: 7 pixels
+  gray: 199 pixels
+  brown: 0 pixels
+  board: 119 pixels
+  spirit (raw): 192 pixels
+  spirit (adjusted): 73 pixels (spirit - board)
+  animal: 133 pixels
+
+Hex at (159, 150), label = []
+  red: 0 pixels
+  blue: 0 pixels
+  green: 1 pixels
+  yellow: 0 pixels
+  gray: 17 pixels
+  brown: 0 pixels
+  board: 947 pixels
+  spirit (raw): 979 pixels
+  spirit (adjusted): 32 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (159, 200), label = []
+  red: 0 pixels
+  blue: 0 pixels
+  green: 23 pixels
+  yellow: 0 pixels
+  gray: 12 pixels
+  brown: 0 pixels
+  board: 942 pixels
+  spirit (raw): 986 pixels
+  spirit (adjusted): 44 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (204, 25), label = [brown]
+  red: 2 pixels
+  blue: 0 pixels
+  green: 0 pixels
+  yellow: 0 pixels
+  gray: 44 pixels
+  brown: 348 pixels
+  board: 298 pixels
+  spirit (raw): 420 pixels
+  spirit (adjusted): 122 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (204, 75), label = [yellow]
+  red: 0 pixels
+  blue: 0 pixels
+  green: 9 pixels
+  yellow: 339 pixels
+  gray: 43 pixels
+  brown: 1 pixels
+  board: 325 pixels
+  spirit (raw): 502 pixels
+  spirit (adjusted): 177 pixels (spirit - board)
+  animal: 3 pixels
+
+Hex at (204, 125), label = [red, red]
+  red: 397 pixels
+  blue: 0 pixels
+  green: 1 pixels
+  yellow: 0 pixels
+  gray: 48 pixels
+  brown: 0 pixels
+  board: 133 pixels
+  spirit (raw): 224 pixels
+  spirit (adjusted): 91 pixels (spirit - board)
+  animal: 29 pixels
+
+Hex at (204, 175), label = []
+  red: 0 pixels
+  blue: 0 pixels
+  green: 0 pixels
+  yellow: 0 pixels
+  gray: 25 pixels
+  brown: 0 pixels
+  board: 955 pixels
+  spirit (raw): 999 pixels
+  spirit (adjusted): 44 pixels (spirit - board)
+  animal: 0 pixels
+
+Hex at (204, 225), label = []
+  red: 0 pixels
+  blue: 0 pixels
+  green: 1 pixels
+  yellow: 0 pixels
+  gray: 20 pixels
+  brown: 0 pixels
+  board: 940 pixels
+  spirit (raw): 977 pixels
+  spirit (adjusted): 37 pixels (spirit - board)
+  animal: 0 pixels
