@@ -94,5 +94,200 @@
         "cube": true
       }
     ]
+  },
+  {
+    "animal": "lion (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "terrain": "yellow",
+        "cube": true
+      },
+      {
+        "dx": -1,
+        "dy": -1,
+        "stack_condition": {
+          "height": 2,
+          "top": "green",
+          "bottom_options": [
+            "brown"
+          ]
+        }
+      },
+      {
+        "dx": 1,
+        "dy": 1,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "bighorn sheep (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "stack_condition": {
+          "height": 3,
+          "top": "gray",
+          "middle": "gray",
+          "bottom": "gray"
+        },
+        "cube": true
+      },
+      {
+        "dx": 1,
+        "dy": 1,
+        "stack_condition": {
+          "height": 2,
+          "top": "gray",
+          "bottom": "gray"
+        }
+      }
+    ]
+  },
+  {
+    "animal": "stork (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        }
+      },
+      {
+        "dx": 1,
+        "dy": 1,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        },
+        "cube": true
+      },
+      {
+        "dx": -1,
+        "dy": -1,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "owl (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "terrain": "green"
+      },
+      {
+        "dx": 0,
+        "dy": -2,
+        "terrain": "green"
+      },
+      {
+        "dx": 1,
+        "dy": -1,
+        "stack_condition": {
+          "height": 3,
+          "top": "green",
+          "middle": "brown",
+          "bottom": "brown"
+        },
+        "cube": true
+      }
+    ]
+  },
+  {
+    "animal": "tortoise (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "terrain": "blue",
+        "cube": true
+      },
+      {
+        "dx": -1,
+        "dy": -1,
+        "stack_condition": {
+          "height": 2,
+          "top": "gray",
+          "bottom": "gray"
+        }
+      },
+      {
+        "dx": 1,
+        "dy": 1,
+        "terrain": "blue"
+      }
+    ]
+  },
+  {
+    "animal": "great stag (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "green",
+          "bottom": "brown"
+        },
+        "cube": true
+      },
+      {
+        "dx": -1,
+        "dy": -1,
+        "stack_condition": {
+          "height": 3,
+          "top": "green",
+          "middle": "brown",
+          "bottom": "brown"
+        }
+      },
+      {
+        "dx": 1,
+        "dy": 1,
+        "terrain": "green"
+      }
+    ]
+  },
+  {
+    "animal": "groundhog (spirit)",
+    "pattern": [
+      {
+        "dx": 0,
+        "dy": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "gray",
+          "bottom": "gray"
+        },
+        "cube": true
+      },
+      {
+        "dx": -1,
+        "dy": 1,
+        "terrain": "gray"
+      },
+      {
+        "dx": 1,
+        "dy": 1,
+        "terrain": "gray"
+      }
+    ]
   }
 ]
