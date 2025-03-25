@@ -1,0 +1,186 @@
+[
+  {
+    "hex_coord": [
+      -2,
+      -1,
+      3
+    ],
+    "label": "yellow"
+  },
+  {
+    "hex_coord": [
+      -2,
+      0,
+      2
+    ],
+    "label": "spirit, red, red"
+  },
+  {
+    "hex_coord": [
+      -2,
+      1,
+      1
+    ],
+    "label": "animal, blue"
+  },
+  {
+    "hex_coord": [
+      -2,
+      2,
+      0
+    ],
+    "label": "brown"
+  },
+  {
+    "hex_coord": [
+      -2,
+      3,
+      -1
+    ],
+    "label": "brown, brown"
+  },
+  {
+    "hex_coord": [
+      -1,
+      -1,
+      2
+    ],
+    "label": "yellow"
+  },
+  {
+    "hex_coord": [
+      -1,
+      0,
+      1
+    ],
+    "label": "green"
+  },
+  {
+    "hex_coord": [
+      -1,
+      1,
+      0
+    ],
+    "label": "animal, blue"
+  },
+  {
+    "hex_coord": [
+      -1,
+      2,
+      -1
+    ],
+    "label": "animal, blue"
+  },
+  {
+    "hex_coord": [
+      0,
+      -2,
+      2
+    ],
+    "label": "blue"
+  },
+  {
+    "hex_coord": [
+      0,
+      -1,
+      1
+    ],
+    "label": "yellow"
+  },
+  {
+    "hex_coord": [
+      0,
+      0,
+      0
+    ],
+    "label": "red, red"
+  },
+  {
+    "hex_coord": [
+      0,
+      1,
+      -1
+    ],
+    "label": "animal, blue"
+  },
+  {
+    "hex_coord": [
+      0,
+      2,
+      -2
+    ],
+    "label": "animal, red, gray"
+  },
+  {
+    "hex_coord": [
+      1,
+      -2,
+      1
+    ],
+    "label": "animal, red, brown"
+  },
+  {
+    "hex_coord": [
+      1,
+      -1,
+      0
+    ],
+    "label": "green"
+  },
+  {
+    "hex_coord": [
+      1,
+      0,
+      -1
+    ],
+    "label": "animal, green"
+  },
+  {
+    "hex_coord": [
+      1,
+      1,
+      -2
+    ],
+    "label": "blue"
+  },
+  {
+    "hex_coord": [
+      2,
+      -3,
+      1
+    ],
+    "label": "blue"
+  },
+  {
+    "hex_coord": [
+      2,
+      -2,
+      0
+    ],
+    "label": "animal, green"
+  },
+  {
+    "hex_coord": [
+      2,
+      -1,
+      -1
+    ],
+    "label": "none"
+  },
+  {
+    "hex_coord": [
+      2,
+      0,
+      -2
+    ],
+    "label": "animal, green"
+  },
+  {
+    "hex_coord": [
+      2,
+      1,
+      -3
+    ],
+    "label": "brown"
+  }
+]
