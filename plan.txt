@@ -1,0 +1,12 @@
+Board Screenshot -> Realistic Illustration
+
+-image processing and logic-
+1) Crop screenshot to board
+2) Detect tokens and cubes
+3) Detect spirit and animals
+4) Build map of board showing locations of tokens and placed spirit/animals
+
+-generative AI- 
+5) Infer terrain and habitats given tokens and placed spirit/animals
+6) Generate a description of setting: which terrain and habitats and their relative locations to each other
+7) Generate image, given description of setting and any stylistic preferences
