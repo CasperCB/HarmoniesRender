@@ -1,8 +1,8 @@
 Board Screenshot -> Realistic Illustration
 
 -image processing and logic-
-1) Crop screenshot to board
-2) Detect tokens and cubes
+1) Crop screenshot to board (done)
+2) Detect tokens and cubes (somewhat done)
 3) Detect spirit and animals
 4) Build map of board showing locations of tokens and placed spirit/animals
 
