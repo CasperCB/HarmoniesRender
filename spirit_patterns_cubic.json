@@ -19,8 +19,8 @@
           ]
         },
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       },
       {
         "stack_condition": {
@@ -34,8 +34,8 @@
         },
         "cube": true,
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -58,8 +58,8 @@
           ]
         },
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       },
       {
         "stack_condition": {
@@ -70,8 +70,8 @@
           ]
         },
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -87,21 +87,21 @@
       {
         "terrain": "yellow",
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       },
       {
         "terrain": "blue",
         "dq": 0,
-        "dr": -2,
-        "ds": 2
+        "dr": -1,
+        "ds": 1
       },
       {
         "terrain": "yellow",
         "cube": true,
         "dq": 1,
-        "dr": -1,
-        "ds": 0
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -124,14 +124,14 @@
           ]
         },
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       },
       {
         "terrain": "yellow",
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -143,7 +143,7 @@
           "height": 3,
           "top": "gray",
           "middle": "gray",
-          "bottom": "gray"
+          "bottom_options": ["gray"]
         },
         "cube": true,
         "dq": 0,
@@ -154,11 +154,11 @@
         "stack_condition": {
           "height": 2,
           "top": "gray",
-          "bottom": "gray"
+          "bottom_options": ["gray"]
         },
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -191,14 +191,14 @@
         },
         "cube": true,
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       },
       {
         "terrain": "yellow",
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       }
     ]
   },
@@ -214,15 +214,15 @@
       {
         "terrain": "green",
         "dq": 0,
-        "dr": -2,
-        "ds": 2
+        "dr": -1,
+        "ds": 1
       },
       {
         "stack_condition": {
           "height": 3,
           "top": "green",
           "middle": "brown",
-          "bottom": "brown"
+          "bottom_options": ["brown"]
         },
         "cube": true,
         "dq": 1,
@@ -245,17 +245,17 @@
         "stack_condition": {
           "height": 2,
           "top": "gray",
-          "bottom": "gray"
+          "bottom_options": ["gray"]
         },
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       },
       {
         "terrain": "blue",
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -266,7 +266,7 @@
         "stack_condition": {
           "height": 2,
           "top": "green",
-          "bottom": "brown"
+          "bottom_options": ["brown"]
         },
         "cube": true,
         "dq": 0,
@@ -278,17 +278,17 @@
           "height": 3,
           "top": "green",
           "middle": "brown",
-          "bottom": "brown"
+          "bottom_options": ["brown"]
         },
         "dq": -1,
-        "dr": -1,
-        "ds": 2
+        "dr": 0,
+        "ds": 1
       },
       {
         "terrain": "green",
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   },
@@ -299,7 +299,7 @@
         "stack_condition": {
           "height": 2,
           "top": "gray",
-          "bottom": "gray"
+          "bottom_options": ["gray"]
         },
         "cube": true,
         "dq": 0,
@@ -315,8 +315,8 @@
       {
         "terrain": "gray",
         "dq": 1,
-        "dr": 1,
-        "ds": -2
+        "dr": 0,
+        "ds": -1
       }
     ]
   }
