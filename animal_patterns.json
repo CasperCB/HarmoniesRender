@@ -1,0 +1,436 @@
+[
+  {
+    "animal": "ray",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "blue",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "gray"
+      },
+      {
+        "dq": -1,
+        "dr": 1,
+        "ds": 0,
+        "terrain": "gray"
+      }
+    ]
+  },
+  {
+    "animal": "fennec fox",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "gray",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "gray"
+      },
+      {
+        "dq": -2,
+        "dr": 0,
+        "ds": 2,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "duck",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "blue",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "animal": "raccoon",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "yellow",
+        "cube": true
+      },
+      {
+        "dq": 1,
+        "dr": 0,
+        "ds": -1,
+        "terrain": "blue"
+      },
+      {
+        "dq": 0,
+        "dr": 1,
+        "ds": -1,
+        "terrain": "blue"
+      },
+      {
+        "dq": -1,
+        "dr": 1,
+        "ds": 0,
+        "terrain": "blue"
+      }
+    ]
+  },
+  {
+    "animal": "raven",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "yellow",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        }
+      },
+      {
+        "dq": 1,
+        "dr": 0,
+        "ds": -1,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "animal": "frog",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "blue",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "green"
+      }
+    ]
+  },
+  {
+    "animal": "gecko",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        },
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "yellow"
+      },
+      {
+        "dq": -2,
+        "dr": 0,
+        "ds": 2,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "meerkat",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "gray",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "flamingo",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "blue",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "yellow"
+      },
+      {
+        "dq": -1,
+        "dr": 1,
+        "ds": 0,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "ladybug",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "yellow",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "green"
+      }
+    ]
+  },
+  {
+    "animal": "otter",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "blue",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "green"
+      },
+      {
+        "dq": -2,
+        "dr": 0,
+        "ds": 2,
+        "terrain": "green"
+      }
+    ]
+  },
+  {
+    "animal": "bumblebee",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "green",
+          "bottom_options": [
+            "brown"
+          ]
+        },
+        "cube": true
+      },
+      {
+        "dq": 1,
+        "dr": 0,
+        "ds": -1,
+        "terrain": "yellow"
+      },
+      {
+        "dq": 0,
+        "dr": 1,
+        "ds": -1,
+        "terrain": "yellow"
+      },
+      {
+        "dq": -1,
+        "dr": 1,
+        "ds": 0,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "eagle",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "stack_condition": {
+          "height": 3,
+          "top": "gray",
+          "middle": "gray",
+          "bottom_options": [
+            "gray"
+          ]
+        },
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "yellow"
+      }
+    ]
+  },
+  {
+    "animal": "squirrel",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        },
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "stack_condition": {
+          "height": 3,
+          "top": "green",
+          "middle": "brown",
+          "bottom_options": [
+            "brown"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "animal": "rabbit",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "terrain": "green",
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "green"
+      },
+      {
+        "dq": -2,
+        "dr": 0,
+        "ds": 2,
+        "stack_condition": {
+          "height": 2,
+          "top": "red",
+          "bottom_options": [
+            "gray",
+            "brown",
+            "red"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "animal": "macaque",
+    "pattern": [
+      {
+        "dq": 0,
+        "dr": 0,
+        "ds": 0,
+        "stack_condition": {
+          "height": 2,
+          "top": "gray",
+          "bottom_options": [
+            "gray"
+          ]
+        },
+        "cube": true
+      },
+      {
+        "dq": -1,
+        "dr": 0,
+        "ds": 1,
+        "terrain": "blue"
+      },
+      {
+        "dq": -1,
+        "dr": 1,
+        "ds": 0,
+        "terrain": "blue"
+      }
+    ]
+  }
+]
