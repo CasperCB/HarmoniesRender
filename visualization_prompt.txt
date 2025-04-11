@@ -1,0 +1,35 @@
+You will be given structured information about a game board composed of terrain stacks and animals. Your goal is to create a descriptive snapshot of the board from a top-down perspective.
+
+Spatial Logic:
+- The board uses hexagonal tiles arranged in a fixed grid. You may infer approximate directions (e.g., "northwest," "center," "southeast") based on coordinate clusters.
+- Do **not** mention coordinates. Instead, describe **relative position**, **adjacency**, and **groupings** of terrain and animals.
+
+Terrain Interpretation:
+- Treat repeated terrain stacks (like "gray-gray" or "blue") as large natural features like **mountains**, **rivers**, **lakes**, **forests**, or **plains**. Stacks that start with "red" represent **buildings**.
+- Stack height implies prominence — e.g., "gray-gray-gray" could be a tall mountain, while a single "green" tile may be a bush or grassy clearing.
+- If terrain types cluster together, describe the **larger region** they form (e.g., “a winding river across the eastern side”).
+
+Animal Placement:
+- Use the listed animal locations to infer **habitat preference** and **placement** in the scene.
+- If multiple animals of the same type are placed together or near a terrain feature, highlight their grouping or behavior (e.g., “llamas trekking along the ridgeline”).
+
+Goal:
+Write a vivid and immersive natural description of the board, as if helping an artist draw or paint the scene.
+Focus on:
+- The **shape and structure** of the land
+- The **flow** of terrain features
+- The **presence and placement** of animals
+
+---
+
+Here is the board data:
+
+{terrain_info}
+
+{spirit_info}
+
+{animal_info}
+
+---
+
+Respond with a natural, richly descriptive summary of the board without using coordinate numbers.
